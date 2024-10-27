@@ -1,4 +1,6 @@
-## Hi there 👋
+# Solaris 2025 - An upcoming hackathon for high school students in the tri-state area
+
+![image](https://github.com/user-attachments/assets/fdb232e6-371a-4ecb-b310-8092b86cdc99)
 
 <!--
 
